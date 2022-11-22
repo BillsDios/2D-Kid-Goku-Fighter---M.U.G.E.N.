@@ -6,7 +6,7 @@ A 2D fighter based on Kid Goku from Dragon Ball. Functional for the M.U.G.E.N. e
 
     -[LinkedIn](https://www.linkedin.com/in/sanchezluismachinelearning/)
     
-    -[YouTube](https://www.youtube.com/@billsdios)
+    -[YouTube](https://www.youtube.com/@billslasa)
   
 * **ShadeDBZ** -> Goku sprites extraction
 
